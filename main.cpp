@@ -2,7 +2,7 @@
 #include <string>
 
 //Possibly the most impostant part, the cards:
-struct class Card
+struct Card
 {
     char value;
     char suit;
