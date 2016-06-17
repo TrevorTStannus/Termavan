@@ -24,7 +24,11 @@ struct Caravan
 //This is where it starts
 int main()
 {
-   //We should welcome the player to the game first.
+    // variable initializations
+    int turn{0};
+    int victory{1};
+
+    //We should welcome the player to the game first.
     using namespace std;
     cout << "Welcome to Termavan, the Terminal Caravan Game!" << endl;
     cout << "(Based on the Caravan card game from Fallout: New Vegas)" << endl;
