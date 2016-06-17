@@ -27,8 +27,8 @@ The game ends when one player has two caravans between 21 and 26 that are more v
             
                              | _ |
                             /|\ /| 
-                           / <  > \       
-                           \  -   |      
+                           /      \       
+                           \      |      
                             \| |  |       
                            /    \ |    
                      __   /     |/   
