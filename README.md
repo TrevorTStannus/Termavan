@@ -12,11 +12,16 @@ a card on each of their 3 caravans. You are trying to keep your caravan between 
 do weird stuff, which you'll see in a second. The cards must be added in either ascending or descending order, or be the same suit as the one before.
 The face cards do the following and can be played on your own cards or your opponent's:
 
-> Jack - gets rid of the card you put it on
-> Queen - reverses pile order
-> King - doubles the card value
-> Ace - is just one point
-> Joker - removes all the card of this type, except the one it's put on
+
+Jack - gets rid of the card you put it on
+
+Queen - reverses pile order
+
+King - doubles the card value
+
+Ace - is just one point
+
+Joker - removes all the card of this type, except the one it's put on
 
 The game ends when one player has two caravans between 21 and 26 that are more valuable then the opponent's corresponding caravan.
             
