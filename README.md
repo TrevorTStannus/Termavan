@@ -19,36 +19,22 @@ Ace - is just one point
 Joker - removes all the card of this type, except the one it's put on
 
 The game ends when one player has two caravans between 21 and 26 that are more valuable then the opponent's corresponding caravan.
+            
 
 
-########################################
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#                     
-#                   /\    \ 
-#                  /  \____|     |
-#               /  | /          /
-#              /_/||/    ______/|
-#                 /    _/  _____/
-#                /    /    /
-#               /\  /|    |
-#              /  \/_|   |   ____
-#             /  /   |    | /_   |
-#            / /      \_  |   | / 
-#           / /         \_\__/_/
-#          / /         Gomorrah
-#         / /
-#        /  |
-#       /_/||
-#
-########################################
+         
+                   /\    \ 
+                  /  \____\/    |
+               /  | /          /
+              /_/||/    ______/|
+                 /    _/  _____/
+                /    /    /
+               /\  /|    |
+              /  \/_|   |   ____
+             /  /   |    | /_   |
+            / /      \_  |   | / 
+           / /         \_\__/_/
+          / /         Gomorrah
+         / /
+        /  |
+       /_/||
