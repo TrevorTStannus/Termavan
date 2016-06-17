@@ -8,6 +8,17 @@ struct Card
     char suit;
 };
 
+//The caravans that the players are building
+struct Caravan
+{
+    //whose caravan is this?
+    int player;
+    // each player has 3 caravans
+    int number;
+    //current value
+    int value;
+};
+
 //Each player will have a deck of 30 cards, should be an array not a struct, cause it will change
 
 //This is where it starts
@@ -24,7 +35,7 @@ int main()
 
     //draw hand from playerDeck, draw opponent hand from opponentDeck
     //show player hand
-    //show the three empty caravans
+    //show the three (six) empty caravans
     //1. play card, 2. discard card, 3. disband caravan, 4. forfeit
     //player turn, opponent turn keep going
     //victory condition: check each players caravan, if the caravan is between 21 and 26, compare it to the deck across, if it is higher set to true, if one player has two true decks, they win.
