@@ -7,7 +7,7 @@ are as follows.
 
 ## The Rules!
 
-Each player starts with a deck of at least 30 cards, shuffled. Next, they draw draw hands of eight cards. The okayer will start, they can put
+Each player starts with a deck of at least 30 cards, shuffled. Next, they draw draw hands of eight cards. Player 1 will start, they can put
 a card on each of their 3 caravans. You are trying to keep your caravan between 21 and 26, each cardadds whatever value it is, and the face cards
 do weird stuff, which you'll see in a second. The cards must be added in either ascending or descending order, or be the same suit as the one before.
 The face cards do the following and can be played on your own cards or your opponent's:
@@ -25,11 +25,18 @@ Joker - removes all the card of this type, except the one it's put on
 
 The game ends when one player has two caravans between 21 and 26 that are more valuable then the opponent's corresponding caravan.
             
-
-
-         
-                   /\    \ 
-                  /  \____\/    |
+                             | _ |
+                            /|\ /| 
+                           / <  > \       
+                           \  -   |      
+                            \| |  |       
+                           /    \ |    
+                     __   /     |/   
+                    /__\__\__   /       
+                   / __________/             
+                  / /   \  |   |      
+                 ///\    \ |    \      
+                / /  \____\/    |
                /  | /          /
               /_/||/    ______/|
                  /    _/  _____/
@@ -39,7 +46,7 @@ The game ends when one player has two caravans between 21 and 26 that are more v
              /  /   |    | /_   |
             / /      \_  |   | / 
            / /         \_\__/_/
-          / /         Gomorrah
+          / /          Gomorrah
          / /
         /  |
        /_/||
